@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Björn 👋
 
-<!--
-**bjoernsteinhagen/bjoernsteinhagen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Structural Engineer turned Solutions Architect. Shaping the future of AEC at [@specklesystems](https://github.com/specklesystems) 🚀
 
-Here are some ideas to get you started:
+## 🔧 Able To Do "Some Stuff" In:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏗️ **AEC Software**: Revit, Rhino, Grasshopper, ETABS, SAP2000, RFEM, Robot Structural Analysis, Strand7
+- 💻 **Programming**: C#, .NET, Python
+
+## 🎯 Current Focus
+
+- AEC data integration solutions
+- Brdiging the gap between different AEC software
+- Creating automation solutions that replace manual, repetitive tasks
+
+## 📫 Connect With Me
+
+- 🌍 Based in Munich, Germany
+- 💼 [LinkedIn](https://linkedin.com/in/bjoernsteinhagen)
+
+## 📊 GitHub Activity
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bjoernsteinhagen&theme=dark)
+
+---
