@@ -20,6 +20,8 @@ I'm a Structural Engineer turned Solutions Architect. Shaping the future of AEC 
 
 ## 📊 GitHub Activity
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bjoernsteinhagen&theme=dark)
+<div align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=bjoernsteinhagen&theme=dark" />
+</div>
 
 ---
