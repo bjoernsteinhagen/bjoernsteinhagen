@@ -17,11 +17,3 @@ I'm a Structural Engineer turned Solutions Architect. Shaping the future of AEC 
 
 - 🌍 Based in Munich, Germany
 - 💼 [LinkedIn](https://linkedin.com/in/bjoernsteinhagen)
-
-## 📊 GitHub Activity
-
-<div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=bjoernsteinhagen&theme=dark" />
-</div>
-
----
