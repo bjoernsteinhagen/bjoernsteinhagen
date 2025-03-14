@@ -1,5 +1,5 @@
 ### 💫 About Me:
-⚡ Developing at [Speckle](https://www.speckle.systems/)<br>🗺️ Remote<br>⚙️ Structural Engineer → Software Development
+⚡ Developing at [Speckle](https://www.speckle.systems/)<br>🗺️ South Africa<br>⚙️ Structural Engineer → Software Development
 
 
 ### 🌐 Socials:
